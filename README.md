@@ -3723,6 +3723,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![AEO Backlink MCP connector](https://glama.ai/mcp/connectors/dev.advancelabs/aeo-backlink/badges/score.svg)](https://glama.ai/mcp/connectors/dev.advancelabs/aeo-backlink)
   🔓 - Link-building research: brand mentions, prospects, competitor link sources and page link checks.
 
+- [AEO Goal](https://aeogoal.com) `https://mcp.aeogoal.com/mcp`
+  🔐 - Your next customers ask AI and Google AI overview which brands to trust. Track visibility across traditional search (Google Search Console, Bing Webmaster, IndexNow) and AI platforms (ChatGPT, Claude, Perplexity, Gemini, Grok). Find backlink opportunities where AI cites competitors. Site audit, keyword research, rank tracking, content gaps, entity clarity, publishing, commerce workflows, funnel attribution, and agentic AI recommendations.
+
 - [AffiliateBase](https://www.affiliatebase.io) `https://app.affiliatebase.io/mcp`
   [![AffiliateBase MCP connector](https://glama.ai/mcp/connectors/io.affiliatebase/affiliatebase/badges/score.svg)](https://glama.ai/mcp/connectors/io.affiliatebase/affiliatebase)
   🔐 - Set up and run a Stripe affiliate program: tracking checks, affiliates, commissions and payouts.
